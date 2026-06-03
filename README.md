@@ -23,14 +23,14 @@ a consistent dataset across modules, allowing direct comparison of results.
 ---
 
 ## Project Structure
-Quiet-Signals/
-data/                              ← raw price data
-module1_do_trends_exist/           ← trend detection
-module2_can_rules_beat_market/     ← backtesting engine
-module3_do_better_signals_help/    ← signal filtering
-module4_does_market_regime_matter/ ← regime classification
-module5_does_position_sizing_matter/ ← volatility scaling
-module6_is_our_edge_real/          ← robustness validation (in progress)
+Quiet-Signals
+data                             ← raw price data
+module1_do_trends_exist           ← trend detection
+module2_can_rules_beat_market     ← backtesting engine
+module3_do_better_signals_help    ← signal filtering
+module4_does_market_regime_matter ← regime classification
+module5_does_position_sizing_matter ← volatility scaling
+module6_is_our_edge_real          ← robustness validation (in progress)
 
 Each module contains:
 - `analysis.ipynb` — full notebook with hypothesis, code, charts, conclusion
