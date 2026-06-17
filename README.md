@@ -14,7 +14,7 @@ one central question:
 Each module builds directly on the findings of the previous one, forming a 
 connected research arc rather than a collection of isolated exercises. The 
 project progresses from basic trend detection through signal filtering, regime 
-classification, and position sizing — mirroring how a professional quant 
+classification, and position sizing - mirroring how a professional quant 
 researcher approaches strategy development.
 
 All analysis is performed on **Nifty 50 daily price data (2010–2024)** using 
