@@ -8,7 +8,7 @@
 Quiet Signals is a structured quantitative research project that investigates 
 one central question:
 
-> **Can a systematic trader reliably extract returns from price data — 
+> **Can a systematic trader reliably extract returns from price data - 
 > and what stops them?**
 
 Each module builds directly on the findings of the previous one, forming a 
@@ -66,7 +66,7 @@ Short-term strategies are disproportionately destroyed by transaction costs.
 
 ---
 
-### Module 4 — Regime Analysis
+### Module 4 - Regime Analysis
 Regime       Days   Strategy Sharpe   BnH Sharpe   Total Return
 Trending     2424      0.62            0.56          0.679
 Ranging       701      1.06            1.07          0.339
@@ -78,7 +78,7 @@ of Indian equity markets.
 
 ---
 
-### Module 5 — Position Sizing
+### Module 5 - Position Sizing
  Total Return  Sharpe  Max Drawdown  Daily Vol
 Buy & Hold                3.49      0.71     -38.4%        1.06%
 SMA 20/50 Fixed           1.87      0.70     -29.2%        0.72%
@@ -91,7 +91,7 @@ risk-adjusted performance than any signal modification across the project.
 
 ---
 
-### Module 6 — Robustness Validation
+### Module 6 - Robustness Validation
 
 **Walk-forward testing (9 out-of-sample windows, Nifty 50):**
 - Vol-scaling beat fixed sizing on Sharpe in 5/9 windows
